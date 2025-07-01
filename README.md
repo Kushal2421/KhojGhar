@@ -32,3 +32,4 @@ KhojGhar is a property listing web platform developed using PHP, MySQL, HTML, CS
 
 
 git clone https://github.com/YOUR_USERNAME/khojghar.git
+![99b6d741-d30c-4c29-8f63-88aff2b26c4a](https://github.com/user-attachments/assets/7b8975c7-4808-4d99-936f-9780dbaa8faf)
